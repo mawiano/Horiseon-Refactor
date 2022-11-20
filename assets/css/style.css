@@ -8,6 +8,8 @@ body {
     background-color: #d9dcd6;
 }
 
+
+
 .header {
     padding: 20px;
     font-family: 'Trebuchet MS', 'Lucida Sans Unicode', 'Lucida Grande', 'Lucida Sans', Arial, sans-serif;
@@ -15,11 +17,15 @@ body {
     color: #ffffff;
 }
 
+
+
 .header h1 {
     display: inline-block;
     font-size: 48px;
     color: #d9dcd6;
 }
+
+
 
 /*Removed this line of code and added the color to .header h1 above
 .header h1 .seo {
@@ -36,10 +42,10 @@ body {
     font-size: 20px;
 }
 
-.header div ul {
-    list-style-type: none;
-}
+/* Removed the .header div ul 
+    list-style-type: none;*/
 
+    
 .header div ul li {
     display: inline-block;
     margin-left: 25px;
