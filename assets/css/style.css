@@ -48,10 +48,12 @@ body {
     /* in the html doc I replaced the .header div with .header nav and replaced it
     accordingly in CSS*/
     
-.header nav ul li {
+.header nav a {
     display: inline-block;
     margin-left: 25px;
 }
+
+/*Got rid of the ul and li so I had to change the class above to .header nav a */
 
 a {
     color: #ffffff;
